@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\boardings\\Boardings.API\\Boardings.API.csproj": {}
+    "C:\\Users\\ASUS\\boardings\\boardings.API\\Boardings.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\boardings\\Boardings.API\\Boardings.API.csproj": {
+    "C:\\Users\\ASUS\\boardings\\boardings.API\\Boardings.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\boardings\\Boardings.API\\Boardings.API.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\boardings\\boardings.API\\Boardings.API.csproj",
         "projectName": "Boardings.API",
-        "projectPath": "C:\\Users\\ASUS\\boardings\\Boardings.API\\Boardings.API.csproj",
+        "projectPath": "C:\\Users\\ASUS\\boardings\\boardings.API\\Boardings.API.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\boardings\\Boardings.API\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\boardings\\boardings.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
