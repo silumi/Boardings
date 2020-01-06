@@ -22,6 +22,7 @@ namespace Boardings.API.Controllers
             _context = context;
         }
         // GET api/values/5000/
+         [AllowAnonymous]
         [HttpGet]
         public async Task<IActionResult> GetValues(){
          var values = await _context.values.ToListAsync();
