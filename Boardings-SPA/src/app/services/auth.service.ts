@@ -20,4 +20,7 @@ baseUrl = 'http://localhost:5000/api/auth/';
       })
     );
   }
+  register(model: any){
+    return this.http.post(this.baseUrl + 'register', model);
+  }
 }

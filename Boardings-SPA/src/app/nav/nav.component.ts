@@ -27,6 +27,7 @@ loggedIn() {
 }
 loggedOut() {
   localStorage.removeItem('token');
-  console.log('logged out !')
+  console.log('logged out !');
+
 }
 }

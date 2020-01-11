@@ -19,6 +19,8 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace Boardings.API
 {
+
+    
     public class Startup
     {
         public Startup(IConfiguration configuration)
