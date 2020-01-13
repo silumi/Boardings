@@ -18,7 +18,7 @@ login() {
     console.log('logged in successfull !');
   // tslint:disable-next-line: no-shadowed-variable
   }, error => {
-    console.log('failed to login !');
+    console.log(error);
   });
 }
 loggedIn() {
