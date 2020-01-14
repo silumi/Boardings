@@ -16,8 +16,8 @@
       </ul>
 
       <div *ngIf="loggedIn()" class="dropdown">
-        <a class="dropdown-toggle text-light" href="#">
-          Welcome User
+        <a class="dropdown-toggle text-light">
+          Welcome {{authService.decodedToken?.unique_name|titlecase}}
         </a>
       
         <div class="dropdown-menu">
@@ -37,18 +37,4 @@
         <button [disabled]="!loginForm.valid" class="btn btn-primary my-2 my-sm-0" type="submit">Login</button>
       </form>
   </nav>
-  <!-- <pre>
-      Form Valid: {{loginForm.valid}}
-      Form Touched: {{loginForm.touched}}
-      Form Dirty: {{loginForm.dirty}}
-      Form Values: {{loginForm.value | json}}
-     Username Valid: {{username.valid}}
-      Username Touched: {{username.touched}}
-      Username Dirty: {{username.dirty}}
-      Username Values: {{username.value}}
-      Password Valid: {{password.valid}}
-      Password Touched: {{password.touched}}
-      Password Dirty: {{password.dirty}}
-      Password Values: {{password.value}}
-      
-  </pre> -->
+  
