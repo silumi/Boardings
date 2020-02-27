@@ -4,7 +4,6 @@ C:\Users\ASUS\boardings\Boardings.API\bin\Debug\netcoreapp2.2\Boardings.API.runt
 C:\Users\ASUS\boardings\Boardings.API\bin\Debug\netcoreapp2.2\Boardings.API.dll
 C:\Users\ASUS\boardings\Boardings.API\bin\Debug\netcoreapp2.2\Boardings.API.pdb
 C:\Users\ASUS\boardings\Boardings.API\obj\Debug\netcoreapp2.2\Boardings.API.csprojAssemblyReference.cache
-C:\Users\ASUS\boardings\Boardings.API\obj\Debug\netcoreapp2.2\Boardings.API.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\boardings\Boardings.API\obj\Debug\netcoreapp2.2\Boardings.API.RazorAssemblyInfo.cache
 C:\Users\ASUS\boardings\Boardings.API\obj\Debug\netcoreapp2.2\Boardings.API.RazorAssemblyInfo.cs
 C:\Users\ASUS\boardings\Boardings.API\obj\Debug\netcoreapp2.2\Boardings.API.AssemblyInfoInputs.cache
@@ -12,3 +11,6 @@ C:\Users\ASUS\boardings\Boardings.API\obj\Debug\netcoreapp2.2\Boardings.API.Asse
 C:\Users\ASUS\boardings\Boardings.API\obj\Debug\netcoreapp2.2\Boardings.API.RazorTargetAssemblyInfo.cache
 C:\Users\ASUS\boardings\Boardings.API\obj\Debug\netcoreapp2.2\Boardings.API.dll
 C:\Users\ASUS\boardings\Boardings.API\obj\Debug\netcoreapp2.2\Boardings.API.pdb
+C:\Users\ASUS\boardings\boardings.api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASUS\boardings\boardings.api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASUS\boardings\boardings.api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
